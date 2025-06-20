@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trésors d’eau de Tunisie</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <h1>Trésors d’eau de Tunisie</h1>
+      <ul>
+        <li><a href="#accueil">Accueil</a></li>
+        <li><a href="#patrimoines">Patrimoines</a></li>
+        <li><a href="#enjeux">Enjeux actuels</a></li>
+        <li><a href="#temoignages">Témoignages</a></li>
+        <li><a href="#agir">Agir Ensemble</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="accueil" class="hero">
+    <div class="overlay">
+      <h2>L’eau raconte notre histoire</h2>
+      <p>Oasis, aqueducs, sources… un patrimoine riche mais oublié.<br>
+        Ce site interactif te propose de découvrir, comprendre et protéger l’eau en Tunisie à travers des fiches, cartes, quiz et gestes écoresponsables.<br>
+        Parce que préserver l’eau, c’est préserver notre avenir.</p>
+    </div>
+  </section>
+
+  <section id="patrimoines">
+    <h2>💦 Section : Patrimoines hydriques de Tunisie</h2>
+    <p>Découvre les lieux emblématiques où l’eau a façonné l’histoire et le paysage tunisien.</p>
+    <div class="cards">
+      <div class="card">
+        <h3>🏜️ Oasis de Tozeur</h3>
+        <p>Située au cœur du désert, elle abrite plus de 200 000 palmiers-dattiers et repose sur un système appelé foggara.<br>
+        ➡️ Exemple de gestion traditionnelle de l’eau dans un milieu aride.</p>
+      </div>
+      <div class="card">
+        <h3>💧 Sources thermales de Korbous</h3>
+        <p>Sources d’eau chaude naturelles utilisées depuis l’époque romaine pour leurs vertus thérapeutiques.<br>
+        ➡️ Patrimoine naturel et culturel utilisé depuis l’Antiquité.</p>
+      </div>
+      <div class="card">
+        <h3>🏛️ Aqueduc de Zaghouan-Carthage</h3>
+        <p>Ouvrage romain de 132 km reliant Zaghouan à Carthage.<br>
+        ➡️ Génie architectural antique au service de l’eau.</p>
+      </div>
+      <div class="card">
+        <h3>🏞️ Barrage de Sidi Salem</h3>
+        <p>Le plus grand barrage tunisien, régule les crues de la Medjerda et alimente plusieurs villes.<br>
+        ➡️ Exemple de patrimoine hydraulique contemporain.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="enjeux">
+    <h2>⚠️ Section : Enjeux actuels de l’eau en Tunisie</h2>
+    <p>Aujourd’hui, l’eau en Tunisie est en danger. Voici les grands défis environnementaux à relever :</p>
+    <ul>
+      <li><strong>🧪 Pollution :</strong> produits chimiques, eaux usées, absence de traitement.<br>➡️ Eau non potable, écosystèmes détruits, risques sanitaires.</li>
+      <li><strong>💧 Pénurie :</strong> manque de pluie, surconsommation.<br>➡️ Coupures d’eau, conflits d’usage, pression agricole.</li>
+      <li><strong>🛑 Surexploitation :</strong> nappes épuisées, pompage excessif.<br>➡️ Eau salée, sol affaissé, zones rurales en crise.</li>
+      <li><strong>🌡️ Changement climatique :</strong> sécheresses, pluies irrégulières, inondations.<br>➡️ Réduction des cultures, perte de biodiversité.</li>
+    </ul>
+  </section>
+
+  <section id="temoignages">
+    <h2>🎤 Section interactive : Témoignages engagés</h2>
+    <div class="temoignage">
+      <p>💬 Lina, 16 ans – Tunis<br>« Avant ce site, je ne savais même pas qu’il y avait des aqueducs romains en Tunisie ! Maintenant, je me rends compte que l’eau, c’est notre histoire et notre futur. »<br>✅ Prise de conscience d’une jeune urbaine.</p>
+    </div>
+    <div class="temoignage">
+      <p>💬 Nidhal, 18 ans – Gabès<br>« On voit la nappe baisser d’année en année… On doit apprendre à économiser, sinon y aura plus rien. »<br>✅ Témoignage direct sur la surexploitation.</p>
+    </div>
+    <div class="temoignage">
+      <p>💬 Wafa, enseignante en géographie<br>« C’est un outil formidable. Les élèves participent davantage avec des contenus interactifs. »<br>✅ Site comme outil pédagogique.</p>
+    </div>
+    <div class="temoignage">
+      <p>💬 Mouheb, bénévole à Tozeur<br>« Ce que nos grands-parents ont su préserver, on doit le défendre avec nos moyens d’aujourd’hui. »<br>✅ Lien entre passé et engagement actuel.</p>
+    </div>
+  </section>
+
+  <section id="agir">
+    <h2>🌱 Section : Agir pour l’eau</h2>
+    <h3>💡 Petits gestes, grand impact</h3>
+    <ul>
+      <li>Fermer le robinet pendant le brossage = 10L économisés</li>
+      <li>Douches de moins de 5 minutes</li>
+      <li>Réparer les fuites dès qu’on les repère</li>
+      <li>Arroser tôt ou tard pour éviter l’évaporation</li>
+      <li>Utiliser un seau plutôt qu’un tuyau</li>
+    </ul>
+    <h3>🤝 Ils agissent déjà</h3>
+    <ul>
+      <li>WWF Tunisie : protection des oasis</li>
+      <li>CITET : gestion durable de l’eau</li>
+      <li>Jeunes volontaires à Tozeur, Gabès, Zaghouan…</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>📩 Section : Contact & Partage</h2>
+    <p>🤔 Une question ? Une idée ? Un témoignage ?</p>
+    <p>Tu veux en savoir plus, proposer un site à valoriser ou partager ton expérience ?</p>
+    <h3>✉️ Écris-nous !</h3>
+    <p>📧 eauxdetunisie@contact.tn</p>
+    <p>Envoie-nous :</p>
+    <ul>
+      <li>Un témoignage (texte ou audio)</li>
+      <li>Des photos de lieux hydriques</li>
+      <li>Des suggestions pour améliorer le site</li>
+      <li>Des demandes de collaboration (écoles, clubs, assos…)</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Trésors d’eau de Tunisie – Projet éducatif</p>
+  </footer>
+
+  <script>
+    function checkAnswer(button) {
+      const result = document.getElementById("quiz-result");
+      if (button.innerText === "Sidi Salem") {
+        result.innerText = "✅ Bonne réponse !";
+        result.style.color = "green";
+      } else {
+        result.innerText = "❌ Mauvaise réponse. Essaie encore !";
+        result.style.color = "red";
+      }
+    }
+  </script>
+</body>
+</html>
+/* RESET & Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffecd1;
+  color: #003049;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: 'Georgia', serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+ul {
+  list-style: none;
+}
+
+/* HEADER STICKY */
+header {
+  background-color: #003049;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+nav {
+  max-width: 1200px;
+  margin: auto;
+  padding: 1em 2em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+nav h1 {
+  color: #ffffff;
+  font-size: 1.5em;
+}
+
+nav ul {
+  display: flex;
+  gap: 1.2em;
+}
+
+nav a {
+  color: #ffffff;
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: #8ecae6;
+  color: #003049;
+}
+
+/* HERO SECTION */
+.hero {
+  height: 60vh;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1615471512344-5d37a6167743') center/cover no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.overlay {
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 2rem;
+  border-radius: 15px;
+  backdrop-filter: blur(5px);
+}
+
+/* SECTIONS */
+section {
+  padding: 4em 2em;
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* CARDS */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 2em;
+  margin-top: 2em;
+}
+
+.card {
+  background-color: white;
+  padding: 1.5em;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  background-color: #f1fdfc;
+}
+
+/* TÉMOIGNAGES */
+.temoignage {
+  background-color: #e0f7fa;
+  border-left: 6px solid #8ecae6;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 10px;
+}
+
+/* QUIZ */
+#quiz {
+  background-color: #dff6ff;
+  padding: 1.5em;
+  border-radius: 15px;
+  margin-top: 2em;
+}
+
+#quiz button {
+  background-color: #8ecae6;
+  color: #003049;
+  border: none;
+  padding: 10px 20px;
+  margin: 0.5em;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+#quiz button:hover {
+  background-color: #219ebc;
+  color: white;
+}
+
+/* FOOTER */
+footer {
+  background-color: #003049;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  margin-top: 4em;
+  font-size: 0.9em;
+}
+
+/* ANIMATION */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+section {
+  animation: fadeInUp 1s ease both;
+}
+/* Ajout pour un fond avec vagues animées */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(circle at 30% 30%, #caf0f8 0%, transparent 70%),
+              radial-gradient(circle at 70% 70%, #ade8f4 0%, transparent 70%);
+  z-index: -2;
+  animation: floatBackground 20s infinite alternate ease-in-out;
+  opacity: 0.4;
+}
+
+@keyframes floatBackground {
+  0% { transform: translate(0, 0); }
+  100% { transform: translate(10px, -10px); }
+}
+.wave-separator {
+  overflow: hidden;
+  line-height: 0;
+}
+
+.wave-separator svg {
+  display: block;
+  width: 100%;
+  height: 60px;
+}
+body {
+  cursor: url('https://cdn-icons-png.flaticon.com/512/3313/3313881.png') 16 16, auto;
+}
